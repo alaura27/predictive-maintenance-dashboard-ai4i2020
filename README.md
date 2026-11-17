@@ -7,6 +7,7 @@
 
 Painel interativo construído em **Python**, **Streamlit** e **Pandas** para monitoramento de telemetria industrial, análise exploratória de falhas e diagnóstico preventivo do sistema de refrigeração utilizando o **AI4I 2020 Predictive Maintenance Dataset**.
 
+Link: https://predictive-maintenance-dashboard-ai4i2020.streamlit.app/ 
 ---
 
 ## 🎯 Objetivo do Projeto
